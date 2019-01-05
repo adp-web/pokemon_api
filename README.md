@@ -13,3 +13,11 @@ Functionality
     ->  Abilities
     
 Use the RESTful API https://pokeapi.co/
+
+You will need:
+->  Composer
+->  PHP
+->  git
+
+Free to use any PHP packages and front-end libraries.
+Design is a bonus!
